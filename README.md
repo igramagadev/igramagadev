@@ -1,12 +1,12 @@
-# Привет, я [Ваше Имя]! 👋
+# Hi, I'm IgraMaga! 👋
 
-Я разработчик, увлечённый созданием качественного кода и решением интересных задач. Моё основное направление — **[ваша основная сфера деятельности, например, веб-разработка, машинное обучение, разработка игр и т.д.]**.
+I'm a developer proficient in multiple programming languages and passionate about UI/UX design. I specialize in web and mobile application development, always striving to create seamless and user-friendly experiences.
 
 ---
 
-## 🛠 Технологии и инструменты
+## 🛠 Technologies & Tools
 
-Я использую следующие технологии для реализации своих проектов:
+I work with the following technologies:
 
 ![Python Badge](https://img.shields.io/badge/Python-3.9-blue)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-4.4-blue)
@@ -21,16 +21,14 @@
 
 ---
 
-## 📈 Мой GitHub-статус
+## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igramagadev&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
-## 📫 Как связаться со мной
+## 📫 How to reach me
 
 - ![Email Badge](https://img.shields.io/badge/Email-admin%40igramagadev.ru-blue)
 
 ---
-
-### Приятного дня! 🌞
