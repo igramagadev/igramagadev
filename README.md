@@ -8,22 +8,28 @@ I'm a developer proficient in multiple programming languages and passionate abou
 
 I work with the following technologies:
 
-![Python Badge](https://img.shields.io/badge/Python-3.9-blue)
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-4.4-blue)
-![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow)
-![Java Badge](https://img.shields.io/badge/Java-11-red)
-![PHP Badge](https://img.shields.io/badge/PHP-8.0-blue)
-![HTML Badge](https://img.shields.io/badge/HTML5-%E2%9C%94-orange)
-![CSS Badge](https://img.shields.io/badge/CSS3-%E2%9C%94-blue)
-![React Badge](https://img.shields.io/badge/React-v17-blue)
-![Git Badge](https://img.shields.io/badge/Git-Active-orange)
-![Kotlin Badge](https://img.shields.io/badge/Kotlin-1.5-green)
+<img src="https://img.icons8.com/ios/50/000000/python.png" alt="Python" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/typescript.png" alt="TypeScript" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/java.png" alt="Java" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/php.png" alt="PHP" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/css3.png" alt="CSS3" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/react-native.png" alt="React" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/git.png" alt="Git" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/kotlin.png" alt="Kotlin" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/figma.png" alt="Figma" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/bash.png" alt="Bash" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/vuejs.png" alt="Vue.js" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/linux.png" alt="Linux" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/mysql.png" alt="MySQL" width="40" height="40"/>
+<img src="https://img.icons8.com/ios/50/000000/sqlite.png" alt="SQLite" width="40" height="40"/>
 
 ---
 
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igramagadev&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
