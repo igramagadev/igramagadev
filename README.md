@@ -4,7 +4,7 @@ I'm a developer proficient in multiple programming languages and passionate abou
 
 ---
 
-## 🛠 Technologies && Tools
+## 🛠 Technologies & Tools
 
 I work with the following technologies:
 
