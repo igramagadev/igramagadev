@@ -1,15 +1,4 @@
-# Hi, I'm IgraMaga! 👋
-
-I'm a developer proficient in multiple programming languages and passionate about UI/UX design. I specialize in web and mobile application development, always striving to create seamless and user-friendly experiences.
-
----
-
-## 🛠 Technologies && Tools
-
-I work with the following technologies:
-
-<p align="center">
-  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+ ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -25,18 +14,3 @@ I work with the following technologies:
   ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
   ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-</p>
-
----
-
-## 📈 My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
-
----
-
-## 📫 How to reach me
-
-- ![Email Badge](https://img.shields.io/badge/Email-admin%40igramagadev.ru-blue)
-
----
