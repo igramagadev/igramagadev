@@ -20,8 +20,8 @@ I work with the following technologies:
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kotlin.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/figma.svg" alt="Figma" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bash.svg" alt="Bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuedotjs.svg" alt="Vue.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/bash.svg" alt="Bash" width="40" height="40" style="background-color: #4EAA25; padding: 5px; border-radius: 5px;"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vuedotjs.svg" alt="Vue.js" width="40" height="40" style="background-color: #4FC08D; padding: 5px; border-radius: 5px;"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linux.svg" alt="Linux" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/sqlite.svg" alt="SQLite" width="40" height="40"/>
@@ -31,7 +31,7 @@ I work with the following technologies:
 
 ## 📈 My GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=igramagadev&show_icons=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
